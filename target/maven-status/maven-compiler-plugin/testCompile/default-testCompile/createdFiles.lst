@@ -1,0 +1,8 @@
+com\instarentProjectManagement\pageObjects\Loginpage.class
+com\instarentProjectManagement\Utilities\XLUtils.class
+com\instarentProjectManagement\testCases\TC_LoginDDT_002.class
+com\instarentProjectManagement\Utilities\ReadConfig.class
+com\instarentProjectManagement\testCases\BaseClass.class
+com\instarentProjectManagement\Utilities\Reporting.class
+com\instarentProjectManagement\testCases\Saa.class
+com\instarentProjectManagement\testCases\TC_LoginPage_001.class
