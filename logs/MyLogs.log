@@ -235,3 +235,7 @@
 [INFO ] 2022-03-26 10:12:20.850 [main] BaseClass - User Email Entered
 [INFO ] 2022-03-26 10:12:20.937 [main] BaseClass - User Password Entered
 [INFO ] 2022-03-26 10:12:33.011 [main] BaseClass - Login Test Pass
+[INFO ] 2022-03-26 13:25:07.800 [main] BaseClass - Browser Opened and Instarent Website Launched
+[INFO ] 2022-03-26 13:25:07.939 [main] BaseClass - User Email Entered
+[INFO ] 2022-03-26 13:25:08.018 [main] BaseClass - User Password Entered
+[INFO ] 2022-03-26 13:25:20.098 [main] BaseClass - Login Test Pass
